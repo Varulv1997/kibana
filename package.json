@@ -379,7 +379,7 @@
     "rxjs": "^6.5.5",
     "seedrandom": "^3.0.5",
     "semver": "^7.3.2",
-    "set-value": "^3.0.2",
+    "set-value": "^4.0.1",
     "source-map-support": "^0.5.19",
     "squel": "^5.13.0",
     "stats-lite": "^2.2.0",
